@@ -20,4 +20,5 @@ This repository aims to be the most complete list of Bitcoin books. <br/><br/>Pl
 
 ### Developers
 - [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](http://chimera.labs.oreilly.com/books/1234000001802/index.html)<br/>Andreas M. Antonopoulos (Free | $27.99 ~ $34.99)<br/><br/>
-- [Blockchain: Blueprint for a New Economy](http://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491)<br/>Melanie Swan  ($11.36 ~ $21.07)
+- [Blockchain: Blueprint for a New Economy](http://www.amazon.com/Blockchain-Blueprint-Economy-Melanie-Swan/dp/1491920491)<br/>Melanie Swan  ($11.36 ~ $21.07)<br/><br/>
+- [Bitcoin Programming](http://www.amazon.com/Bitcoin-Programming-Mostafa-Farghaly/dp/1500176826/ref=sr_1_10?s=books&ie=UTF8&qid=1434082792&sr=1-10&keywords=bitcoin)<br/>Mostafa Farghaly ($29)<br/><br/>
