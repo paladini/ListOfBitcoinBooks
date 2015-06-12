@@ -1,6 +1,6 @@
 # List Of Bitcoin Books
 ![](http://i.imgur.com/XVlho01.jpg)
-This repository (aims to be) is the most complete list of Bitcoin books on the Internet. <br/><br/>Please, feel free to [suggest new books or improvements](https://github.com/paladini/ListOfBitcoinBooks/issues/new) to the list :)
+This repository is (or aims to be)  the most complete list of Bitcoin books on the Internet. <br/><br/>Please, feel free to [suggest new books or improvements](https://github.com/paladini/ListOfBitcoinBooks/issues/new) to the list :)
 
 # By Category
 
